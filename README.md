@@ -1,6 +1,8 @@
 # Statistics and Probability for Data Analysis Using R
 Welcome to this repository! This is a one-stop-shop for all the lessons I've created and assignments I completed learning Statistics and Probability for Data Analysis Using R. The purpose of this repository is to provide a centralized location where you can access all the materials I've and track your progress as you learn R
 
+> Something cool to notes is that I used chat gpt to structure these notes based on the content I find online while I am teaching myself R
+
 ## Getting Started with R and R Studio
 To get started with the course, you'll need to have R and R Studio installed on your computer. If you don't already have these tools, here's what you need to do:
 
