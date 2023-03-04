@@ -32,4 +32,4 @@ To use the repository, simply clone it to your local machine and open the R Mark
 As you work through the lessons and assignments, be sure to save your progress by committing your changes to the repository. This will allow you to track your progress and easily access your work in the future.
 
 ## Conclusion
-We hope you find this repository to be a useful tool as you work through the course "Statistics and Probability for Data Analysis Using R". If you have any questions or issues, feel free to reach out to us for assistance. Good luck and happy learning!
+We hope you find this repository to be a useful tool as you learn Statistics and Probability for Data Analysis Using R. If you have any questions or issues, feel free to reach out to us for assistance. Good luck and happy learning!
